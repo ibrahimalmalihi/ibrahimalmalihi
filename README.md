@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibrahim Almalihi
+# 👋 Hi, I'm Ibrahim AlMalihi
 
 ### 🎓 Data Science & AI Student | AI Enthusiast 🤖
 I am a Data Science Engineering student with a deep obsession with **Artificial Intelligence**. I don't just write code; I am passionate about **building projects** and exploring the future of AI.
