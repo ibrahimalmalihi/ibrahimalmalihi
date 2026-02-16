@@ -12,7 +12,6 @@ I have a strong passion for **building and participating in startups**. I believ
 
 ### 🚀 Technical Projects (Python)
 - **Address Book System**: A comprehensive system to manage and store contacts efficiently.
-- **Basic Calculator**: A functional programming project handling arithmetic operations and logic.
 
 ---
 
